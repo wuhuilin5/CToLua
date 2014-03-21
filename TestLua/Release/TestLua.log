@@ -1,0 +1,18 @@
+﻿生成启动时间为 2014/3/4 18:33:52。
+     1>项目“E:\C++\TestLua\TestLua\TestLua.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TestLua.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TestLua.cpp
+         TestLua.cpp
+     1>TestLua.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\TestLua\Release\TestLua.exe" /INCREMENTAL:NO /NOLOGO lua5.1.lib lua51.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++\TestLua\Release\TestLua.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\TestLua\Release\TestLua.lib" /MACHINE:X86 /SAFESEH Release\stdafx.obj
+         Release\Student.obj
+         Release\TestLua.obj
+         正在生成代码
+         已完成代码的生成
+         TestLua.vcxproj -> E:\C++\TestLua\Release\TestLua.exe
+     1>已完成生成项目“E:\C++\TestLua\TestLua\TestLua.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57

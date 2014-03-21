@@ -1,0 +1,11 @@
+$#include "Animal.h"
+
+class Animal
+{
+public:
+	Animal( const char *name );
+	void setAge( int age );
+	int getAge();
+	void sound();
+	~Animal(void);
+};
